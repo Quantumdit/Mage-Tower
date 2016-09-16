@@ -1,6 +1,6 @@
-# Mage-Tower (Tentative Name)
+# Mage-Tower
 
-Game Design Club's first game.
+Game Design Club's first game. The name is tentative.
 
 ## Basic Information
 
